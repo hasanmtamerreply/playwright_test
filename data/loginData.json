@@ -1,0 +1,18 @@
+{
+    "validLogin": {
+      "username": "student",
+      "password": "Password123",
+      "successMessage": "Congratulations student. You successfully logged in!"
+    },
+    "invalidUsername": {
+      "username": "incorrectUser",
+      "password": "Password123",
+      "errorMessage": "Your username is invalid!"
+    },
+    "invalidPassword": {
+      "username": "student",
+      "password": "incorrectPassword",
+      "errorMessage": "Your password is invalid!"
+    }
+  }
+  
